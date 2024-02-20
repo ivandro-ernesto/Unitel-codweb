@@ -1,0 +1,33 @@
+img{
+    width: 150px;
+    height: 150px;
+    margin-left: 50%;
+}
+
+.container{
+    margin-left: 45%;
+}
+
+.nome{
+    margin-bottom: 20px;
+}
+
+.senha{
+
+}
+
+.btn-entrar{
+    margin-top: 40px;
+    margin-left: 85px;
+}
+
+.botao{
+    background-color: white;
+    border: 1px solid orange;
+    font-size: 16px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    text-decoration: none;
+    color: orange;
+}
